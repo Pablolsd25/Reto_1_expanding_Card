@@ -1,0 +1,15 @@
+/* App.css */
+
+/* Establece la imagen de fondo y ajusta las propiedades de la misma */
+body {
+  background-image: url("https://www.nationalgeographic.com.es/medio/2023/03/23/cielo-estrellado_15597644_230323101555_1280x854.jpg");
+  background-size: cover; /* Ajusta el tamaño de la imagen para que cubra toda la ventana */
+  background-position: center; /* Centra la imagen en la ventana */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  height: 100vh; /* Establece la altura de la imagen al 100% de la altura de la ventana */
+}
+
+p {
+  color: white;
+  margin-top: 50px;
+}
